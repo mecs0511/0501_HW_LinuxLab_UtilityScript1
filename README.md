@@ -12,7 +12,7 @@ It ensures the script runs using Bash so all Bash commands and syntax work corre
 2. mkdir
 
 mkdir -p ~/practice_script/docs
-Definition
+Definition:
 
 mkdir stands for make directory. It creates folders/directories.
 
@@ -21,7 +21,7 @@ Why It Was Used
 It was used to create folders to organize documents, logs, and archived files.
 
 3. -p
-Definition
+Definition:
 
 -p is an option used with mkdir. It creates parent directories if they do not exist and avoids errors if the directory already exists.
 
@@ -32,7 +32,7 @@ It allows the script to safely create nested folders like:
 ~/practice_script/docs
 
 4. ~
-Definition
+Definition:
 
 ~ represents the current user’s home directory.
 
@@ -43,7 +43,7 @@ It makes the script portable because it automatically saves files inside the cur
 5. touch
 
 touch ~/practice_script/docs/file1.txt
-Definition
+Definition:
 
 touch creates a new empty file.
 
@@ -57,7 +57,7 @@ file2.txt
 6. echo
 
 echo "This is file 1"
-Definition
+Definition:
 
 echo displays text on the terminal or sends text into a file.
 
@@ -67,7 +67,7 @@ It was used to add text content into the files.
 
 7. >
 > 
-Definition
+Definition:
 
 > is an output redirection operator. It writes output to a file and overwrites existing content.
 
@@ -81,7 +81,7 @@ echo "This is file 1" > ~/practice_script/docs/file1.txt
 
 8. >>
 >>
-Definition
+Definition:
 
 >> appends text to the end of a file without deleting existing content.
 
@@ -92,7 +92,7 @@ It was used to add a second line to file1.txt.
 9. cat
 
 cat ~/practice_script/docs/file1.txt
-Definition
+Definition:
 
 cat stands for concatenate. It displays the contents of a file.
 
@@ -103,7 +103,7 @@ It was used to show the text stored inside file1.txt.
 10. cp
 
 cp ~/practice_script/docs/file1.txt ~/practice_script/archive/
-Definition
+Definition:
 
 cp means copy. It duplicates files or directories.
 
@@ -114,7 +114,7 @@ It was used to create a backup copy of file1.txt inside the archive folder.
 11. mv
 
 mv ~/practice_script/docs/file2.txt ~/practice_script/archive/
-Definition
+Definition:
 
 mv means move. It moves or renames files and folders.
 
@@ -125,7 +125,7 @@ It was used to move file2.txt from the docs folder into the archive folder.
 12. ls
 
 ls -l ~/practice_script/
-Definition
+Definition:
 
 ls lists files and directories.
 
@@ -134,7 +134,7 @@ Why It Was Used
 It was used to display the contents of the practice_script folder.
 
 13. -l
-Definition
+Definition:
 
 -l is an option for ls that shows a long listing format with detailed information such as:
 
@@ -149,7 +149,7 @@ It provides more detailed information about the files and folders.
 14. pwd
 
 pwd
-Definition
+Definition:
 
 pwd stands for print working directory.
 
@@ -160,7 +160,7 @@ It shows the current directory where the user is working.
 15. date
 
 date
-Definition
+Definition:
 
 date displays the current system date and time.
 
@@ -171,7 +171,7 @@ It was used to show when the script was executed.
 16. chmod
 
 chmod +x
-Definition
+Definition:
 
 chmod changes file permissions.
 
