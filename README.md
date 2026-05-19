@@ -157,18 +157,7 @@ Why It Was Used
 
 It shows the current directory where the user is working.
 
-15. whoami
-
-whoami
-Definition
-
-whoami displays the current logged-in username.
-
-Why It Was Used
-
-It confirms which user account is running the script.
-
-16. date
+15. date
 
 date
 Definition
@@ -179,7 +168,7 @@ Why It Was Used
 
 It was used to show when the script was executed.
 
-17. chmod
+16. chmod
 
 chmod +x
 Definition
