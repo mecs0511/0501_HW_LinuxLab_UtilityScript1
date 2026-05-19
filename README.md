@@ -1,2 +1,1 @@
-# 0501_HW_LinuxLab_UtilityScript
 # 0501_HW_LinuxLab_UtilityScript1
