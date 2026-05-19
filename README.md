@@ -12,6 +12,7 @@ It ensures the script runs using Bash so all Bash commands and syntax work corre
 2. mkdir
 
 mkdir -p ~/practice_script/docs
+
 Definition:
 
 mkdir stands for make directory. It creates folders/directories.
