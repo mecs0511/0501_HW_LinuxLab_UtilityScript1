@@ -1,3 +1,9 @@
+ # Workplace Scenario
+
+
+My team is currently managing several department folders on a Linux server to keep company files organized and easy to access. I have created a utility script that organizes incoming department files, creates a backup folder, moves selected files to the correct locations, and generates a report showing everything the script completed.
+
+
 # This Is What My Script Does
 
 My script has to directories that makes it easier to locate files quickly because related files are grouped together logically.
