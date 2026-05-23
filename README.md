@@ -1,4 +1,44 @@
-Definitions for Each Linux Command Used in the Script1. 
+# This Is What My Script Does
+
+My script has to directories that makes it easier to locate files quickly because related files are grouped together logically.
+
+Multiple directories help automate scripts more efficiently since the script knows exactly where to read input files and where to save results or backups.
+
+Sample files are used in my script to test the script or program to make sure it works correctly before using real data.
+
+They help demonstrate how input and output should look, making it easier to troubleshoot errors and verify results.
+
+Printing status messages in the terminal give real-time feedback so I can see what the script is doing and if each step is working correctly.
+
+I write content into a file because creates a permanent record of results that can be saved, reviewed later, and used for reporting or debugging.
+
+Keeping a duplicate in case the original is lost or deleted and the duplicate of the original file in another location while keeping the original unchanged.
+
+Organizing data by placing it in the correct folder or storage location for easier access can be why you would want to move files.
+
+It also removes temporary files or folders to free up storage space and to help improve system performance. or deleting temporary files reduces clutter and can prevent errors caused by 
+
+outdated or unnecessary data.
+
+I displayed the contents of a directory to help verify that the correct files and folders were created or copied during a script or terminal tasks.
+
+My script also has a printing working directory which prevents mistakes by ensuring the script is running in the correct directory before creating, moving, or deleting files.
+
+The script will include the current date and time in a report or log file to track when actions, updates, or script executions occurred and it makes 
+
+troubleshooting easier by providing a timeline of events and helping identify when errors or changes happened. 
+
+I have a final report or summary file confirms that the script completed successfully and produced the expected output and this
+
+also allows me to quickly review the collected information, results, or logged activities without opening the file separately.
+
+
+
+
+
+
+
+# Definitions For Each Linux Command Used In The Script1. 
 
 1. #!/bin/bash
 
